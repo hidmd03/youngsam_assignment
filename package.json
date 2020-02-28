@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hidmd03.github.io/youngsam_assignment/.",
+  "homepage": "https://hidmd03.github.io/youngsam_assignment",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
