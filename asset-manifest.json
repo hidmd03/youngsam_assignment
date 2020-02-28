@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/youngsam_assignment/static/css/main.34ecd843.chunk.css",
+    "main.js": "/youngsam_assignment/static/js/main.e5570ec5.chunk.js",
+    "main.js.map": "/youngsam_assignment/static/js/main.e5570ec5.chunk.js.map",
+    "runtime-main.js": "/youngsam_assignment/static/js/runtime-main.b3c2dd5f.js",
+    "runtime-main.js.map": "/youngsam_assignment/static/js/runtime-main.b3c2dd5f.js.map",
+    "static/js/2.5eebe61f.chunk.js": "/youngsam_assignment/static/js/2.5eebe61f.chunk.js",
+    "static/js/2.5eebe61f.chunk.js.map": "/youngsam_assignment/static/js/2.5eebe61f.chunk.js.map",
+    "index.html": "/youngsam_assignment/index.html",
+    "precache-manifest.ae21457512f13947d0e4329499684bd9.js": "/youngsam_assignment/precache-manifest.ae21457512f13947d0e4329499684bd9.js",
+    "service-worker.js": "/youngsam_assignment/service-worker.js",
+    "static/css/main.34ecd843.chunk.css.map": "/youngsam_assignment/static/css/main.34ecd843.chunk.css.map",
+    "static/js/2.5eebe61f.chunk.js.LICENSE.txt": "/youngsam_assignment/static/js/2.5eebe61f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/youngsam_assignment/static/media/p4.e3036c60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3c2dd5f.js",
+    "static/js/2.5eebe61f.chunk.js",
+    "static/css/main.34ecd843.chunk.css",
+    "static/js/main.e5570ec5.chunk.js"
+  ]
+}
