@@ -18,12 +18,12 @@ body {
 .img_wrap {
   position: relative;
   width: 842px;
-  height: 5654px;
+  height: 7650px;
   left: 0;
   top: 0;
   background-color: #fff;
   margin: 0 auto;
-  box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.24);
+  box-shadow: 0px 0px 100px rgba(34, 34, 34, 0.24);
 }
 .img_wrap:before {
   content: "";
